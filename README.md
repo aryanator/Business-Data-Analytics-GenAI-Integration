@@ -83,7 +83,7 @@ The client observed a 15% increase in delivery costs over the last 6 months whil
 
 ## 📂 Files
 
-- [`technical_assessment.ipynb`](./technical_assessment.ipynb) – Full code
+- [`main.ipynb`](./technical_assessment.ipynb) – Full code
 - [`Plots-Results.pdf`](./Plots-Results.pdf) – Visual outputs
 - [`Delivery_Cost_Summary.pdf`](./Delivery_Cost_Summary.pdf) – Business report
 
